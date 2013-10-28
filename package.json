@@ -1,0 +1,7 @@
+{
+  "name": "marionette-marker",
+  "version": "0.0.2",
+  "description": "A marionette plugin for marking elements and click events.",
+  "main": "index.js",
+  "license": "Apache2"
+}
